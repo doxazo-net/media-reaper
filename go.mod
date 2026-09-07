@@ -1,6 +1,6 @@
 module github.com/sydlexius/media-reaper
 
-go 1.25.7
+go 1.26.0
 
 require (
 	github.com/google/uuid v1.6.0
@@ -9,7 +9,7 @@ require (
 	github.com/pressly/goose/v3 v3.27.3
 	github.com/swaggo/echo-swagger v1.5.2
 	github.com/swaggo/swag v1.16.6
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golift.io/starr v1.3.1
 	modernc.org/sqlite v1.58.0
 )
